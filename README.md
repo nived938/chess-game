@@ -26,6 +26,7 @@ cd chess-game
 *(Modify this section if your game uses external libraries like `pygame` or `python-chess`)*
 ```bash
 pip install -r requirements.txt
+pip install python-chess
 ```
 
 ### 3. Run the Game
